@@ -12,4 +12,5 @@ creation d'un serveur node.js avec sqlite3
 5-Pour lancer votre serveur faite "node index.js" dans le terminal.
 
 REMARQUES: -Vous puvez changer le port dans le fichier index.js tout en bas au niveau de "app.listen". Ici, le port est configuré sur 3001.
-          -Vous pouvez tester vos api avec postman.
+
+           -Vous pouvez tester vos api avec postman.
